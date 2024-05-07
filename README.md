@@ -69,11 +69,15 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
+
 ### Input Grayscale Image and Color Image
 ![output](<Screenshot 2024-03-23 205155.png>) 
+
 ### Histogram of Grayscale Image and any channel of Color Image
 ![output](<Screenshot 2024-03-23 205655.png>) 
+
 ![output](<Screenshot 2024-03-23 205755.png>)
+
 ### Histogram Equalization of Grayscale Image.
  ![output](<Screenshot 2024-03-23 205908.png>)
 
